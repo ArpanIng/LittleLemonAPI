@@ -41,7 +41,7 @@ You can use Djoser in your project to automatically create the following endpoin
 | **`/api/menu-items/{menuItem}`** | Manager                 | **`PUT`**, **`PATCH`**                           | Updates single menu item                                            |
 | **`/api/menu-items/{menuItem}`** | Manager                 | **`DELETE`**                                     | Deletes menu item                                                   |
 
-# User group management endpoints
+## User group management endpoints
 
 | Endpoint                                       | Role    | Method       | Purpose                                                                                                                                                            |
 | ---------------------------------------------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
