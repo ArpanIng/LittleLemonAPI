@@ -1,7 +1,5 @@
 # Coursera: Introduction to APIs
 
-This is a capstone project for Introduction to APIs course by Meta Back-End Developer Professional Certificate on Coursera.
-
 ## Project structure and API routes
 
 This is a Project structure and API routes for LittleLemon application from Meta Back-End Developer Certificate from Coursera.
@@ -84,7 +82,7 @@ You can use Djoser in your project to automatically create the following endpoin
 5. Managers can log in
 6. Managers can update the item of the day
 7. Managers can assign users to the delivery crew
-8. Managers can assign orders to the delivery crew []
+8. Managers can assign orders to the delivery crew
 9. The delivery crew can access orders assigned to them
 10. The delivery crew can update an order as delivered
 11. Customers can register
